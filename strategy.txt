@@ -1,0 +1,23 @@
+1. Normalization
+  -Replace links with a special token
+  -Normalize dates
+  -Remove numbers??
+2. Lowercasing
+3. Tokenization
+  -Compounds
+  -Punctuation
+4. Remove Stop-Words
+5. Stemming and lemmatisation
+6. POS flitering
+
+Baseline: knn
+
+Evaluation:
+-Precision
+-Recall
+-Accuracy
+-F-measure
+-...
+
+Ideas:
+TF-IDF to identify words that are specific to a certain author??
