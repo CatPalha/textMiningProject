@@ -1,14 +1,13 @@
 1. Normalization
-  -Replace links with a special token
-  -Normalize dates
-  -Remove numbers??
-2. Lowercasing
+  -Tokenize dates and numbers - Mafalda
+  -Replace all accents - Mafalda
+2. Lowercasing - Maren
 3. Tokenization
-  -Compounds
+  -Compounds (later) - Catarina research
   -Punctuation
-4. Remove Stop-Words
-5. Stemming and lemmatisation
-6. POS flitering
+4. Remove Stop-Words - Catarina
+5. Stemming and lemmatisation - Maren
+6. POS flitering (later)
 
 Baseline: knn
 
