@@ -1,0 +1,27 @@
+1. Normalization
+  -Tokenize dates and numbers - Mafalda
+  -Replace all accents - Mafalda - done
+2. Lowercasing - Maren - done
+3. Tokenization
+  -Compounds (later) - Catarina research
+  -Punctuation - after looking into it doesn't seem like a problem
+4. Remove Stop-Words - Catarina - the stopwords module has portuguese as an option!! - done
+5. Stemming and lemmatisation - Maren - attention: don't use both at the same time!!!!
+
+5 has been done with lemmatization, afterwards, check if the performance is better
+with stemming
+
+6. POS flitering (later)
+
+Baseline: knn
+
+Evaluation:
+-Precision
+-Recall
+-Accuracy
+-F-measure
+-...
+
+Ideas:
+TF-IDF to identify words that are specific to a certain author?? - useful for stop words
+Careful with imbalanced learning
