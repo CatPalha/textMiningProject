@@ -4,13 +4,14 @@
 2. Lowercasing - done
 3. Tokenization
   -Compounds (later) - we have n-grams but still not sure what to do about it
-  -Punctuation - count it maybe? Remove it?
-4. Remove Stop-Words - done
+  -Punctuation - count it maybe? Remove it? - Catarina
+4. Remove Stop-Words - check the accent problem - Mafalda
 5. Stemming and lemmatisation - we're using lemmatization but we should see later if it performs better with stemming
-
 6. POS flitering (later)
+7. Bag-of-Words - Catarina
 
-Baseline: knn
+
+Baseline: knn - Maren
 
 Evaluation:
 -Precision
