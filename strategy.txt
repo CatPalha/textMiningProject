@@ -10,6 +10,7 @@
 6. POS flitering (later)
 7. Bag-of-Words - Catarina
 
+cross validation - kinda
 
 Baseline: knn - Maren
 
