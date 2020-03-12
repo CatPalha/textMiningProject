@@ -1,15 +1,12 @@
 1. Normalization
-  -Tokenize dates and numbers - Mafalda
-  -Replace all accents - Mafalda - done
-2. Lowercasing - Maren - done
+  -Tokenize dates and numbers - probably not useful
+  -Replace all accents - done
+2. Lowercasing - done
 3. Tokenization
-  -Compounds (later) - Catarina research
-  -Punctuation - after looking into it doesn't seem like a problem
-4. Remove Stop-Words - Catarina - the stopwords module has portuguese as an option!! - done
-5. Stemming and lemmatisation - Maren - attention: don't use both at the same time!!!!
-
-5 has been done with lemmatization, afterwards, check if the performance is better
-with stemming
+  -Compounds (later) - we have n-grams but still not sure what to do about it
+  -Punctuation - count it maybe? Remove it?
+4. Remove Stop-Words - done
+5. Stemming and lemmatisation - we're using lemmatization but we should see later if it performs better with stemming
 
 6. POS flitering (later)
 
